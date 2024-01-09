@@ -1,0 +1,1 @@
+Python review for AI course
